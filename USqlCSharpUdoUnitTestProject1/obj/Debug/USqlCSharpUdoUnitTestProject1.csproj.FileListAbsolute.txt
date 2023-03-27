@@ -1,0 +1,16 @@
+C:\Users\123\Desktop\экзамен пример\WpfApp3\USqlCSharpUdoUnitTestProject1\obj\Debug\USqlCSharpUdoUnitTestProject1.csproj.AssemblyReference.cache
+C:\Users\123\Desktop\экзамен пример\WpfApp3\USqlCSharpUdoUnitTestProject1\obj\Debug\USqlCSharpUdoUnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\экзамен пример\WpfApp3\USqlCSharpUdoUnitTestProject1\bin\Debug\USqlCSharpUdoUnitTestProject1.dll
+C:\Users\123\Desktop\экзамен пример\WpfApp3\USqlCSharpUdoUnitTestProject1\bin\Debug\USqlCSharpUdoUnitTestProject1.pdb
+C:\Users\123\Desktop\экзамен пример\WpfApp3\USqlCSharpUdoUnitTestProject1\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\123\Desktop\экзамен пример\WpfApp3\USqlCSharpUdoUnitTestProject1\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\123\Desktop\экзамен пример\WpfApp3\USqlCSharpUdoUnitTestProject1\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\123\Desktop\экзамен пример\WpfApp3\USqlCSharpUdoUnitTestProject1\bin\Debug\Microsoft.Analytics.UnitTest.dll
+C:\Users\123\Desktop\экзамен пример\WpfApp3\USqlCSharpUdoUnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\123\Desktop\экзамен пример\WpfApp3\USqlCSharpUdoUnitTestProject1\bin\Debug\WpfApp3.exe
+C:\Users\123\Desktop\экзамен пример\WpfApp3\USqlCSharpUdoUnitTestProject1\bin\Debug\WpfApp3.pdb
+C:\Users\123\Desktop\экзамен пример\WpfApp3\USqlCSharpUdoUnitTestProject1\bin\Debug\WpfApp3.exe.config
+C:\Users\123\Desktop\экзамен пример\WpfApp3\USqlCSharpUdoUnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\123\Desktop\экзамен пример\WpfApp3\USqlCSharpUdoUnitTestProject1\obj\Debug\USqlCSharpUdoUnitTestProject1.csproj.CopyComplete
+C:\Users\123\Desktop\экзамен пример\WpfApp3\USqlCSharpUdoUnitTestProject1\obj\Debug\USqlCSharpUdoUnitTestProject1.dll
+C:\Users\123\Desktop\экзамен пример\WpfApp3\USqlCSharpUdoUnitTestProject1\obj\Debug\USqlCSharpUdoUnitTestProject1.pdb
